@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DialogTest</string>
+    <string name="button1"></string>
+    <string name="button2"></string>
+    <string name="button3"></string>
+    <string name="button4"></string>
+    <string name="button5"></string>
+    <string name="button6"></string>
+
+</resources>
